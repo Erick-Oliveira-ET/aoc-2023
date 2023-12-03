@@ -1,4 +1,4 @@
-import math
+
 from pathlib import WindowsPath
 
 input_path = WindowsPath("." )/ "day 2" / "input.txt"
